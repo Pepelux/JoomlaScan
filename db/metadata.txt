@@ -1,0 +1,4 @@
+# match in file | version ini-version end
+8178 2007-07-23 05:39:47Z|1.5.0.RC2-1.5.18.Stable
+17437 2010-06-01 14:35:04Z|1.5.19.Stable-1.5.20.Stable
+16235 2010-04-20 04:13:25Z|1.6.0.Stable-1.7.5.Stable

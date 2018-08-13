@@ -1,0 +1,8 @@
+# match in file | version ini-version end
+20196 2011-01-09 02:40:25Z|1.6.0.Stable-1.6.0.Stable
+20422 2011-01-24 10:13:55Z|1.6.1.Stable-1.6.1.Stable
+21021 2011-03-27 07:22:54Z|1.6.2.Stable-1.6.2.Stable
+21170 2011-04-18 21:33:11Z|1.6.3.Stable-1.6.6.Stable
+21650 2011-06-23 05:29:17Z|1.7.0.Stable-1.7.1.Stable
+22231 2011-10-11 17:40:39Z|1.7.2.Stable-1.7.2.Stable
+22232 2011-10-12 05:48:28Z|1.7.3.Stable-1.7.5.Stable

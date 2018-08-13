@@ -1,0 +1,4 @@
+# File | vulnrability title | versions affected | vulnerability description | url reference (url1 uel2 ... url3)
+htaccess.txt|htaccess.txt has not been renamed|All|Generic defenses implemented in .htaccess are not available, so exploiting is more likely to succeed||
+administrator|Unprotected Administrator directory|All|The default /administrator/ directory is detected. Attackers can bruteforce administrator accounts|http://yehg.net/lab/pr0js/view.php/MULTIPLE%20TRICKY%20WAYS%20TO%20PROTECT.pdf
+admin|Generic: Guessable Administrator directory|All|The guessable /admin/ directory is detected. Attackers can bruteforce administrator accounts|http://yehg.net/lab/pr0js/view.php/MULTIPLE%20TRICKY%20WAYS%20TO%20PROTECT.pdf

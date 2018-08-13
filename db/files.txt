@@ -1,0 +1,17 @@
+# filename | version ini-version end | version ini-version end if doesn't exists
+$admin/templates/joomla_admin/images/security.png|1.0.x-x.x.x|
+language/english.xml|1.0.x-x.x.x|
+$admin/templates/khepri/images/j_login_lock.jpg|1.5.x-x.x.x|
+$admin/templates/khepri/images/j_button1_next.png|1.5.x-x.x.x|
+plugins/system/mtupgrade.xml|1.5.19.Stable-1.5.20.Stable|1.5.0.Beta-1.5.18.Stable
+$admin/help/helpsites-16.xml|1.6.0.Stable-1.6.6.Stable|
+$admin/help/helpsites.xml|1.7.0.Stable-1.7.2.Stable|
+libraries/joomlacms/index.html|1.7.1.Stable-1.7.2.Stable|1.7.0.Stable-1.7.0.Stable
+$admin/language/overrides/en-GB.override.ini|1.7.0.Stable-1.7.2.Stable|
+media/mod_languages/images/at.gif|1.7.3.Stable-1.7.5.Stable|1.7.0.Stable-1.7.2.Stable
+$admin/components/com_users/models/forms/note.xml|2.5.0.Stable-2.5.6.Stable|
+$admin/templates/hathor/params.ini|1.7.0.Stable-1.7.5.Stable|2.5.0.Stable-2.5.6.Stable
+$admin/templates/hathor/images/admin/filter_16.png|2.5.0.Stable-2.5.6.Stable|
+$admin/language/en-GB/en-GB.mod_version.ini|2.5.1.Stable-2.5.6.Stable|2.5.0.Stable-2.5.0.Stable
+$admin/language/en-GB/en-GB.com_joomlaupdate.ini|2.5.4.Stable-2.5.6.Stable|2.5.0.Stable-2.5.3.Stable
+build.xml|2.5.5.Stable-2.5.6.Stable|2.5.0.Stable-2.5.4.Stable
